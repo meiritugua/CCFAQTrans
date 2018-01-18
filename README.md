@@ -1,5 +1,7 @@
 # CCFAQTrans
 
+> 本开源书 forked from [知识共享协议使用常见问答](https://github.com/LenKiMo/CCFAQTrans)，作者为 [LenKiMo](https://github.com/LenKiMo)，欢迎大家 star 原作者的 [repo](https://github.com/LenKiMo/CCFAQTrans)，以便获得最新更新，谢谢！
+
 知识共享协议使用常见问题解答非官方翻译项目
 
 ## 介绍
